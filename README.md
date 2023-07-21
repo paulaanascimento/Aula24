@@ -1,4 +1,4 @@
-# Aula24
+# Exercícios
 <div align="justify">
   
 1. Classe Caixa: Crie uma classe que modele um caixa, que contém saldo -
